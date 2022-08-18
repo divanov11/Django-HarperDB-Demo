@@ -1,6 +1,6 @@
 # HarperDB + Django Quickstart demo
 
-A simple CRUD app using HarperDB with Django, for demo purposes. You can find a link to the full article and video [here](#)
+A simple CRUD app using HarperDB with Django, for demo purposes. You can find a link to the full article and video [here]([#](https://dev.to/dennisivy11/using-harperdb-with-django-10m8))
 
 
 ## How to use
